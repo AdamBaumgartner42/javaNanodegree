@@ -14,10 +14,6 @@ public class RegExTester {
         System.out.print(pattern.matcher(email).matches());
 
 
-
-
-
-
     }
 
 
