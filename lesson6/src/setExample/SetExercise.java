@@ -18,7 +18,6 @@ public class SetExercise {
         Set<String> uniqueGreetings = new HashSet<String>(greetings);
 
         // For Each to display values
-
         for (String text : uniqueGreetings){
             System.out.println(text);
         }

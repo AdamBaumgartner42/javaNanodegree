@@ -6,7 +6,7 @@ import java.util.Date;
 public class DatesAndCalendars {
 
     public static void main(String[] args) {
-        DatesAndCalendars.ls
+        DatesAndCalendars.
     displayCurrentDate();
         DatesAndCalendars.displaySetDate();
     }
